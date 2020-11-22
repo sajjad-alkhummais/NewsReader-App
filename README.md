@@ -1,1 +1,3 @@
 # NewsReader-App
+
+##Project notes
