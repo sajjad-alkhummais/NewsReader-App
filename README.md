@@ -1,3 +1,3 @@
-# NewsReader-App
+# Test
 
 ##Project notes
